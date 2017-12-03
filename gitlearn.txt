@@ -12,3 +12,5 @@ removed
 one more
 
 local changes done
+
+second cloud changes done
